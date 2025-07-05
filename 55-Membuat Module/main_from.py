@@ -1,0 +1,17 @@
+# module matematika dengan import 
+
+from matematika import tambah,kali
+# from matematika import *
+
+hasil_tambah = tambah(5,4,5,3,1)
+print(f'hasil tambah = {hasil_tambah}')
+
+hasil_kali = kali(3,5,3,5,3) 
+print(f"hasil kali = {hasil_kali}")
+
+pangkat_3 = pangkat(3)
+print(f"hasil pangkat 3 dari 3 = {pangkat_3(3)}")
+
+
+
+
