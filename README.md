@@ -31,6 +31,9 @@ video di channel.
 - Mendokumentasikan proses belajar Python
 - Membangun portofolio belajar secara bertahap
 
+------------------------------------------------
 
+Dibuat Senin,16 Juni 2025
+Semangat..........
 
 
